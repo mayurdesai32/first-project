@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  background-color: red;
+  font-size: larger;
+  text-align: center;
+}
+
+.div1 {
+  height: 80vh;
+  width: 100vw;
+  padding: 5% 20%;
+  border: 2px solid green;
+}
+.time {
+  background-color: black;
+  font-size: 100px;
+  text-align: center;
+  color: white;
+}
